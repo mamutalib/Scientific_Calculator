@@ -11,43 +11,28 @@ Which are:
 - Play Game 
  
 ## Tools/Software used:
-To build my software, I have used Apache NetBeans IDE 12.2 software. On the other hand, I have used Java language along with Java GUI.  
+To build my software, I have used **Apache NetBeans IDE 12.2 software**. On the other hand, I have used **Java** language along with **Java GUI**.  
  
 ## Details of my work with the necessary screenshot: 
 As I mentioned before, I have designed five features in my project. Now I have written the details of my project.  
-This is the Standard Mode of my Scientific Calculator. Wherein we can calculate normal mathematical equations. Like, addition, subtraction, multiplication, division, and square root. 
-On the run time of calculator, we can clear all the previous calculations by pressing c button. 
-Likewise, it also possible to delete a single digit from calculator by pressing left arrow (←) sign button.  
- 
+![Standard View](docs/Screenshots/Standard.png "Standard View")
 
+This is the Standard Mode of my Scientific Calculator. Wherein we can calculate normal mathematical equations. Like, addition, subtraction, multiplication, division, and square root. On the run time of calculator, we can clear all the previous calculations by pressing c button. Likewise, it also possible to delete a single digit from calculator by pressing left arrow (←) sign button.  
 
-
-
-
-  
+![Scientific View](docs/Screenshots/ScientificView.png "Scientific View")
 The following image is the second feature of my software. By using Scientific Mode, we can get the value of Sin, Cos, Tan, and others. This feature is basically for doing Scientific mathematical operations. 
- 
- 
- 
- 
- 
- 
 
- 
- 
- 
 ### Math Quiz:  
+
+![Math Quiz](docs/Screenshots/MathQuiz1.png "Math Quiz")
 - This is the 3rd feature of my software. Here a user can take a math quiz.  
 - It is the starting page of Math Quiz.  
-  
- 
- 
-• At the end of quiz, user will get the score of the quiz.  
-
-• User can restart the quiz.  
- 
+![Math Quiz](docs/Screenshots/MathQuiz2.png "Math Quiz") 
+- At the end of quiz, user will get the score of the quiz.  
+- User can restart the quiz.  
 
 ### Currency Converter: 
+![Currency Converter](docs/Screenshots/CurrencyConverter.png "Currency Converter")
 This is the 4th feature of my project. 
 Here user can convert a specific amount of money to one currency to another currency.  
 In this screenshot I have shown a demo. Like The amount is: 256 
@@ -55,10 +40,9 @@ USD to BD Taka will be 21818.88.
  
 
 ### Tik Tac Toe 
-At last, I have added a minor game feature to my project. A user can play the game whenever he wants. There will be nine boxes to fill up.  
- 
- 
-Here I have added a screenshot of this game.  
+At last, I have added a minor game feature to my project. A user can play the game whenever he wants. There will be nine boxes to fill up. 
+
+Here I have added a screenshot of this game.  ![Tik Tak Toe](docs/Screenshots/TikTakToe.png "TikTakToe")
   
  
 ### Challenges that I faced to do this project:  
@@ -66,8 +50,6 @@ Basically, in this project I have faced some issues with completing this project
 Results:  
 In my project, all the feature works perfectly except Tik Tac Toe game. There are some bugs that I couldn’t fix the last time.  
  
- 
-
 
 ### Conclusion and future work:  
 That is an excellent experience for me to do this project as a single member. And this project can be expanded with more advanced features. As like using if some automatic equations solver function is added, it will be more appropriate to this project.  
