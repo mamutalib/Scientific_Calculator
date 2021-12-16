@@ -34,8 +34,7 @@ The following image is the second feature of my software. By using Scientific Mo
 ### Currency Converter: 
 ![Currency Converter](docs/Screenshots/CurrencyConverter.png "Currency Converter")
 This is the 4th feature of my project. 
-Here user can convert a specific amount of money to one currency to another currency.  
-In this screenshot I have shown a demo. Like The amount is: 256 
+Here user can convert a specific amount of money to one currency to another currency. In this screenshot I have shown a demo. Like The amount is: 256 
 USD to BD Taka will be 21818.88.  
  
 
