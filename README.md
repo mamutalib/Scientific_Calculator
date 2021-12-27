@@ -3,7 +3,12 @@
 - [Projecdt Feature](https://github.com/mamutalib/Scientific_Calculator#project-feature)
 - [Tools/Software used](https://github.com/mamutalib/Scientific_Calculator#toolssoftware-used)
 - [Details of my work with the necessary screenshot](Details of my work with the necessary screenshot)
-* * [Standard & Scientific Mode](https://github.com/mamutalib/Scientific_Calculator#standard--scientific-mode)
+    - [Standard & Scientific Mode](https://github.com/mamutalib/Scientific_Calculator#standard--scientific-mode)
+    - [Math Quiz](https://github.com/mamutalib/Scientific_Calculator#math-quiz)
+    - [Currency Converter](https://github.com/mamutalib/Scientific_Calculator#currency-converter)
+    - [Tik Tac Toe](https://github.com/mamutalib/Scientific_Calculator#tik-tac-toe)
+- [Challenges](https://github.com/mamutalib/Scientific_Calculator#challenges-that-i-faced-to-do-this-project)
+- [Conclusion and future work](https://github.com/mamutalib/Scientific_Calculator#conclusion-and-future-work)
 
 ## Introduction:
 In the era of globalization, we used Calculator so many times. We use it to do the calculation in a short time. In this perspective, I have made a java Scientific Calculator software. By using this software, we can easily calculate our problem.  
@@ -11,16 +16,16 @@ In the era of globalization, we used Calculator so many times. We use it to do t
 ## Project Feature:
 In my software, I have designed 5 five features.  
 Which are: 
-- Standard Mode 
-- Scientific Mode 
-- Math Quiz 
-- Currency Converter 
-- Play Game 
+- [Standard & Scientific Mode](https://github.com/mamutalib/Scientific_Calculator#standard--scientific-mode)
+- [Math Quiz](https://github.com/mamutalib/Scientific_Calculator#math-quiz)
+- [Currency Converter](https://github.com/mamutalib/Scientific_Calculator#currency-converter)
+- [Tik Tac Toe](https://github.com/mamutalib/Scientific_Calculator#tik-tac-toe)
  
 ## Tools/Software used:
 To build my software, I have used **Apache NetBeans IDE 12.2 software**. On the other hand, I have used **Java** language along with **Java GUI**.  
- 
-## Standard & Scientific Mode
+
+## Details of my work with the necessary screenshot 
+### Standard & Scientific Mode
 As I mentioned before, I have designed five features in my project. Now I have written the details of my project.  
 ![Standard View](docs/Screenshots/Standard.png "Standard View")
 
@@ -51,11 +56,11 @@ At last, I have added a minor game feature to my project. A user can play the ga
 Here I have added a screenshot of this game.  ![Tik Tak Toe](docs/Screenshots/TikTakToe.png "TikTakToe")
   
  
-### Challenges that I faced to do this project:  
+## Challenges that I faced to do this project:  
 Basically, in this project I have faced some issues with completing this project. Most of the time, I faced implementing logic in coding. There are so many classes in the Java language that I’m not a well-known student to implement in the project. These kinds of issues I have faced in this project.  
 Results:  
 In my project, all the feature works perfectly except Tik Tac Toe game. There are some bugs that I couldn’t fix the last time.  
  
 
-### Conclusion and future work:  
+## Conclusion and future work:  
 That is an excellent experience for me to do this project as a single member. And this project can be expanded with more advanced features. As like using if some automatic equations solver function is added, it will be more appropriate to this project.  
