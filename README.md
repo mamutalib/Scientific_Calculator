@@ -3,7 +3,7 @@
 - [Projecdt Feature](https://github.com/mamutalib/Scientific_Calculator#project-feature)
 - [Tools/Software used](https://github.com/mamutalib/Scientific_Calculator#toolssoftware-used)
 - [Details of my work with the necessary screenshot](Details of my work with the necessary screenshot)
-- - 
+* * [Standard & Scientific Mode](https://github.com/mamutalib/Scientific_Calculator#standard--scientific-mode)
 
 ## Introduction:
 In the era of globalization, we used Calculator so many times. We use it to do the calculation in a short time. In this perspective, I have made a java Scientific Calculator software. By using this software, we can easily calculate our problem.  
