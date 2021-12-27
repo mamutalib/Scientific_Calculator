@@ -1,3 +1,10 @@
+## Tables of Content 
+- [Introduction](https://github.com/mamutalib/Scientific_Calculator#introduction)
+- [Projecdt Feature](https://github.com/mamutalib/Scientific_Calculator#project-feature)
+- [Tools/Software used](https://github.com/mamutalib/Scientific_Calculator#toolssoftware-used)
+- [Details of my work with the necessary screenshot](Details of my work with the necessary screenshot)
+- - 
+
 ## Introduction:
 In the era of globalization, we used Calculator so many times. We use it to do the calculation in a short time. In this perspective, I have made a java Scientific Calculator software. By using this software, we can easily calculate our problem.  
  
@@ -13,7 +20,7 @@ Which are:
 ## Tools/Software used:
 To build my software, I have used **Apache NetBeans IDE 12.2 software**. On the other hand, I have used **Java** language along with **Java GUI**.  
  
-## Details of my work with the necessary screenshot: 
+## Standard & Scientific Mode
 As I mentioned before, I have designed five features in my project. Now I have written the details of my project.  
 ![Standard View](docs/Screenshots/Standard.png "Standard View")
 
@@ -52,5 +59,3 @@ In my project, all the feature works perfectly except Tik Tac Toe game. There ar
 
 ### Conclusion and future work:  
 That is an excellent experience for me to do this project as a single member. And this project can be expanded with more advanced features. As like using if some automatic equations solver function is added, it will be more appropriate to this project.  
- 
- 
