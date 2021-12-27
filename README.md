@@ -1,8 +1,8 @@
-## Tables of Content 
+## Table of Contents
 - [Introduction](https://github.com/mamutalib/Scientific_Calculator#introduction)
 - [Projecdt Feature](https://github.com/mamutalib/Scientific_Calculator#project-feature)
 - [Tools/Software used](https://github.com/mamutalib/Scientific_Calculator#toolssoftware-used)
-- [Details of my work with the necessary screenshot](Details of my work with the necessary screenshot)
+- [Details of my work with the necessary screenshot](https://github.com/mamutalib/Scientific_Calculator#details-of-my-work-with-the-necessary-screenshot)
     - [Standard & Scientific Mode](https://github.com/mamutalib/Scientific_Calculator#standard--scientific-mode)
     - [Math Quiz](https://github.com/mamutalib/Scientific_Calculator#math-quiz)
     - [Currency Converter](https://github.com/mamutalib/Scientific_Calculator#currency-converter)
@@ -24,9 +24,10 @@ Which are:
 ## Tools/Software used:
 To build my software, I have used **Apache NetBeans IDE 12.2 software**. On the other hand, I have used **Java** language along with **Java GUI**.  
 
-## Details of my work with the necessary screenshot 
+## Details of my work with the necessary screenshot:
+As I mentioned before, I have designed five features in my project. Now I have written the details of my project. 
 ### Standard & Scientific Mode
-As I mentioned before, I have designed five features in my project. Now I have written the details of my project.  
+ 
 ![Standard View](docs/Screenshots/Standard.png "Standard View")
 
 This is the Standard Mode of my Scientific Calculator. Wherein we can calculate normal mathematical equations. Like, addition, subtraction, multiplication, division, and square root. On the run time of calculator, we can clear all the previous calculations by pressing c button. Likewise, it also possible to delete a single digit from calculator by pressing left arrow (←) sign button.  
