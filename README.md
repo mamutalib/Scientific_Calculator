@@ -1,4 +1,5 @@
-![Lines of code](https://img.shields.io/tokei/lines/github/mamutalib/Scientific_Calculator?style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/mamutalib/Scientific_Calculator?style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/mamutalib/Scientific_Calculator?style=for-the-badge) 
+![GitHub repo size](https://img.shields.io/github/repo-size/mamutalib/Scientific_Calculator?style=for-the-badge)
 
 ## Table of Contents
 - [Introduction](https://github.com/mamutalib/Scientific_Calculator#introduction)
