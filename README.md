@@ -14,7 +14,7 @@
 - [Conclusion and future work](https://github.com/mamutalib/Scientific_Calculator#conclusion-and-future-work)
 
 ## Introduction:
-In the era of globalization, we used Calculator so many times. We use it to do the calculation in a short time. In this perspective, I have made a java Scientific Calculator software. By using this software, we can easily calculate our problem.  
+The Backpack Application is a Java-based software project designed to provide users with a versatile tool for performing calculations and unit/currency conversions within a user-friendly graphical user interface (GUI). This project leverages Java Swing and JFrame to create an interactive and intuitive application that offers both a calculator and a converter as its primary functionalities. Initially, this project only includes calculator and converter, but it is expected to have more functionalities very soon.
  
 ## Project Feature:
 In my software, I have designed 5 five features.  
@@ -56,8 +56,7 @@ USD to BD Taka will be 21818.88.
 
 ### Tik Tac Toe 
 At last, I have added a minor game feature to my project. A user can play the game whenever he wants. There will be nine boxes to fill up. 
-
-Here I have added a screenshot of this game.  ![Tik Tak Toe](docs/Screenshots/TikTakToe.png "TikTakToe")
+This game is still under experiment!!! I hope it will be completed as soon as possible.
   
  
 ## Challenges that I faced to do this project:  
